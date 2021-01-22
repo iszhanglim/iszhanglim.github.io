@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iszhanglim.github.io</id>
     <title>草木如织</title>
-    <updated>2021-01-22T07:08:39.943Z</updated>
+    <updated>2021-01-22T07:49:40.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iszhanglim.github.io"/>
     <link rel="self" href="https://iszhanglim.github.io/atom.xml"/>
@@ -11,85 +11,93 @@
     <icon>https://iszhanglim.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 草木如织</rights>
     <entry>
-        <title type="html"><![CDATA[Gridea+GitHub搭建个人博客]]></title>
-        <id>https://iszhanglim.github.io/post/gridea/</id>
-        <link href="https://iszhanglim.github.io/post/gridea/">
+        <title type="html"><![CDATA[Test12]]></title>
+        <id>https://iszhanglim.github.io/post/test12/</id>
+        <link href="https://iszhanglim.github.io/post/test12/">
         </link>
-        <updated>2021-01-22T06:47:21.000Z</updated>
-        <content type="html"><![CDATA[<p>  某日闲余时间看到一篇介绍Gridea博客平台的文章，大概看了一下觉得此平台还不错，随即自己进入Gridea官网瞅了瞅。哇，这搭建过程也太简单了吧，比Hexo博客搭建要容易很多，而且还有后台管理客户端，很适合小白用户入门。最重要的是不用自己购买域名！可以直接与GitHub或Coding配合展示页面。下面简单介绍下Gridea+GitHub搭建及使用流程，有兴趣的同学可以试试看哦。</p>
-<h3 id="gridea简介">Gridea简介：</h3>
-<p>官网：<a href="https://gridea.dev/">https://gridea.dev/</a><br>
-GitHub主页：<a href="https://github.com/getgridea/gridea/">https://github.com/getgridea/gridea/</a></p>
-<p>  关于Gridea大家可以进官网找文档了解，这里我就不列举出来了。进入官网，出现如下界面 点击下载相应系统的客户端即可在本地安装。</p>
-<h3 id="grideagithub配置流程">Gridea+GitHub配置流程：</h3>
-<p>  安装完成Gridea客户端后，下面需要在GitHub上新建项目，然后Gridea客户端再进行相关配置，完成之后我们在Gridea客户端写的文章即可通过GitHub Pages展示出来。官方给出了详细的配置文档，大家可以跟着一步步来。<br>
-官方文档：<a href="https://gridea.dev/docs/">https://gridea.dev/docs/</a><br>
-官方推荐教程：<a href="https://fehey.com/post/hve-notes-start/">https://fehey.com/post/hve-notes-start/</a><br>
-示例站点：<a href="https://fehey.com/">https://fehey.com/</a></p>
-<h3 id="总结">总结：</h3>
-<p>  Gridea是一款开源的博客平台，再加上GitHub Pages或Coding Pages免费静态网站托管服务即可搭建出个人博客平台。Gridea自带后台客户端，配置完成后可以通过客户端写文章并且发布到GitHub Pages网站。即使你不会git相关操作也可以很快上手。顺便说一下，我的博客地址是https://wangkunk.github.io/ 欢迎大家访问！今后文章也会同步到博客平台。</p>
+        <updated>2021-01-22T07:49:30.000Z</updated>
+        <content type="html"><![CDATA[<p>Test12</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文章]]></title>
-        <id>https://iszhanglim.github.io/post/dfdsf/</id>
-        <link href="https://iszhanglim.github.io/post/dfdsf/">
+        <title type="html"><![CDATA[Test11]]></title>
+        <id>https://iszhanglim.github.io/post/test11/</id>
+        <link href="https://iszhanglim.github.io/post/test11/">
         </link>
-        <updated>2021-01-22T04:24:54.000Z</updated>
-        <content type="html"><![CDATA[<p>文章，男，满族，1984年6月26日出生于陕西省西安市，中国内地男演员、导演，毕业于中央戏剧学院表演系。<br>
-2004年，参演电视剧《与青春有关的日子》，开始在影视圈崭露头角 [1]  。2005年，拍摄古装剧《锦衣卫》。2007年，主演赵宝刚导演的青春剧《奋斗》； [2]  同年，主演首部电影《走着瞧》。2008年，主演滕华涛执导的电视剧《蜗居》，饰演80后城市青年小贝。 [1]  2009年，在电影《海洋天堂》中扮演自闭症患者王大福；同年参演抗战剧《雪豹》 [3]  。2011年，主演的电视剧《裸婚时代》播出； [4]  同年，连续2年获得北京大学生电影节 [5-6]  最受大学生欢迎男演员奖。2012年，凭借电影《失恋33天》获得第31届大众电影百花奖最佳男主角奖 [7]  ；同年，成立北京君竹影视文化有限公司，并导演第一部影视作品《小爸爸》。<br>
-2013年2月，主演的电影《西游·降魔篇》在全国上映 [8]  。2014年3月28日，主演的文艺爱情片《我在路上最爱你》在全国上映。2014年12月18日，在姜文执导的动作喜剧片《一步之遥》中扮演武七一角。2016年，主演电视剧《少帅》 [9]  和《剃刀边缘》 [10]  。2017年9月16日，凭借导演的电影《陆垚知马俐》获得第31届中国电影金鸡奖导演处女作奖 [11-12]  。2018年9月30日，主演的喜剧动作电影《胖子行动队》上映。 [13]<br>
-<img src="https://iszhanglim.github.io/post-images/1611289716494.jfif" alt="" loading="lazy"></p>
-<pre><code class="language-java">    public static &lt;T&gt; CompletableFuture&lt;T&gt; submitTask(IndexTask&lt;IndexCalcTaskItem, T&gt; indexTask) {
-
-        return CompletableFuture
-                .supplyAsync(indexTask, EXECUTOR)
-                .whenComplete((r, e) -&gt; {
-                })
-                .exceptionally((e) -&gt; {
-                    LOGGER.error(MessageFormat.format(&quot;计算指标：{0}({1})失败。 CalcFreq:{2} CalcPeriod:{3}&quot;,
-                            indexTask.getTaskItem().getIndexItem().getName(),
-                            indexTask.getTaskItem().getIndexItem().getId(),
-                            indexTask.getTaskItem().getCalcFreq(),
-                            indexTask.getTaskItem().getCalcPeriod()),
-                            e);
-                    return null;
-                });
-
-    }
-</code></pre>
+        <updated>2021-01-22T07:49:23.000Z</updated>
+        <content type="html"><![CDATA[<p>Test11</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://iszhanglim.github.io/post/hello-gridea/</id>
-        <link href="https://iszhanglim.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[Test10]]></title>
+        <id>https://iszhanglim.github.io/post/test10/</id>
+        <link href="https://iszhanglim.github.io/post/test10/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-01-22T07:49:16.000Z</updated>
+        <content type="html"><![CDATA[<p>Test10</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test9]]></title>
+        <id>https://iszhanglim.github.io/post/test9/</id>
+        <link href="https://iszhanglim.github.io/post/test9/">
+        </link>
+        <updated>2021-01-22T07:49:09.000Z</updated>
+        <content type="html"><![CDATA[<p>Test9</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test8]]></title>
+        <id>https://iszhanglim.github.io/post/test8/</id>
+        <link href="https://iszhanglim.github.io/post/test8/">
+        </link>
+        <updated>2021-01-22T07:49:04.000Z</updated>
+        <content type="html"><![CDATA[<p>Test8</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test7]]></title>
+        <id>https://iszhanglim.github.io/post/test7/</id>
+        <link href="https://iszhanglim.github.io/post/test7/">
+        </link>
+        <updated>2021-01-22T07:48:53.000Z</updated>
+        <content type="html"><![CDATA[<p>Test7</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test6]]></title>
+        <id>https://iszhanglim.github.io/post/test6/</id>
+        <link href="https://iszhanglim.github.io/post/test6/">
+        </link>
+        <updated>2021-01-22T07:48:47.000Z</updated>
+        <content type="html"><![CDATA[<p>Test6</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test5]]></title>
+        <id>https://iszhanglim.github.io/post/test5/</id>
+        <link href="https://iszhanglim.github.io/post/test5/">
+        </link>
+        <updated>2021-01-22T07:48:41.000Z</updated>
+        <content type="html"><![CDATA[<p>Test5</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test4]]></title>
+        <id>https://iszhanglim.github.io/post/test4/</id>
+        <link href="https://iszhanglim.github.io/post/test4/">
+        </link>
+        <updated>2021-01-22T07:48:34.000Z</updated>
+        <content type="html"><![CDATA[<p>Test4</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test3]]></title>
+        <id>https://iszhanglim.github.io/post/test3/</id>
+        <link href="https://iszhanglim.github.io/post/test3/">
+        </link>
+        <updated>2021-01-22T07:48:23.000Z</updated>
+        <content type="html"><![CDATA[<p>Test3</p>
 ]]></content>
     </entry>
 </feed>
